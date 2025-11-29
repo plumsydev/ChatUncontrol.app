@@ -6,7 +6,7 @@
   **Privacy-focused messaging platform with end-to-end encryption**
 
   [![Version](https://img.shields.io/badge/version-0.9.5-blue.svg)](https://github.com/plumsydev/ChatUncontrol/releases)
-  [![Codename](https://img.shields.io/badge/codename-Pulse-purple.svg)](https://github.com/plumsydev/ChatUncontrol)
+  [![Codename](https://img.shields.io/badge/codename-Rampart-purple.svg)](https://github.com/plumsydev/ChatUncontrol)
 
   [Roadmap](https://uncontrol.chat/roadmap) | [Download Desktop](https://github.com/plumsydev/ChatUncontrol/releases)
 </div>
