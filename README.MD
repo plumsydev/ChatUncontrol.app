@@ -5,10 +5,10 @@
 
   **Privacy-focused messaging platform with end-to-end encryption**
 
-  [![Version](https://img.shields.io/badge/version-0.6.0-blue.svg)](https://github.com/plumsydev/ChatUncontrol/releases)
+  [![Version](https://img.shields.io/badge/version-0.9.5-blue.svg)](https://github.com/plumsydev/ChatUncontrol/releases)
   [![Codename](https://img.shields.io/badge/codename-Pulse-purple.svg)](https://github.com/plumsydev/ChatUncontrol)
 
-  [Roadmap](https://chatuncontrol.app/roadmap) | [Download Desktop](https://github.com/plumsydev/ChatUncontrol/releases)
+  [Roadmap](https://uncontrol.chat/roadmap) | [Download Desktop](https://github.com/plumsydev/ChatUncontrol/releases)
 </div>
 
 ---
@@ -109,7 +109,7 @@ ChatUncontrol uses the **Fuck-Feds Custom Protocol** for end-to-end encryption:
 
 ## Roadmap
 
-See the full [Roadmap](https://chatuncontrol.app/roadmap) for detailed changes.
+See the full [Roadmap](https://uncontrol.chat/roadmap) for detailed changes.
 
 ---
 
